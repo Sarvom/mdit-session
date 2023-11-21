@@ -1,5 +1,5 @@
 -- header-2.header-2: 
-logo: $assets.files.images.Header.header-1.trizwit.jpeg
+logo: $assets.files.assets.trizwit.jpeg
 logo-test: TEST Header
 cta-text-1: First Link
 cta-text-2: Second Link
